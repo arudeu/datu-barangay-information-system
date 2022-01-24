@@ -34,4 +34,3 @@ C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay Syst
 C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.exe
 C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.xml
 C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.pdb
-C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Microsoft.mshtml.dll

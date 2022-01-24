@@ -297,7 +297,6 @@ RELIGION = @RELIGION, VOTER = @VOTER, ADDRESS = @ADDRESS, CONTACTNO = @CONTACTNO
         tb_fname.Text = ""
         tb_lname.Text = ""
         tb_mname.Text = ""
-        lbl_residentid.Text = ""
         cb_genderx.SelectedItem = ""
         tb_pob.Text = ""
         cb_status.SelectedItem = ""
