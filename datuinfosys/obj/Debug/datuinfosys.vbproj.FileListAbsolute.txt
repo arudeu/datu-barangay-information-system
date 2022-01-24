@@ -1,0 +1,37 @@
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.vbprojAssemblyReference.cache
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.Form1.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.Resources.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.vbproj.GenerateResource.cache
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.vbproj.CopyComplete
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.home.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.homepanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.requestspanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.residentspanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.settingspanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.setingsuserpanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.settingsbrgypanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.addresidentpanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\AForge.dll
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\AForge.Video.dll
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\AForge.xml
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\AForge.Video.xml
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\QRCoder.dll
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.residentlistpanel.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.qrscanner.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\datuinfosys.residentbrgyid.resources
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Datu Barangay System.exe.config
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Datu Barangay System.exe.manifest
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Datu Barangay System.application
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Datu Barangay System.exe
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Datu Barangay System.pdb
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Datu Barangay System.xml
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.exe.manifest
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.application
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.exe
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.xml
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\obj\Debug\Datu Barangay System.pdb
+C:\Users\marc1\source\repos\datuinfosys\datuinfosys\bin\Debug\Microsoft.mshtml.dll

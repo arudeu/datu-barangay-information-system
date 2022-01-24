@@ -1,0 +1,366 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Datu Barangay System
+</name>
+</assembly>
+<members>
+<member name="T:datuinfosys.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:datuinfosys.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:datuinfosys.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:datuinfosys.My.Resources.Resources.icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:datuinfosys.My.Resources.Resources.IDBG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:datuinfosys.My.Resources.Resources.lgo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfo">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfo.TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfo.TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfo.TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfoTableAdapters.TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.UpdateUpdatedRows(datuinfosys.ds_brgyinfo,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.UpdateInsertedRows(datuinfosys.ds_brgyinfo,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.UpdateDeletedRows(datuinfosys.ds_brgyinfo,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.UpdateAll(datuinfosys.ds_brgyinfo)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyinfoTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficials">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficials.Table1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficials.Table1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficials.Table1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficialsTableAdapters.Table1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.UpdateUpdatedRows(datuinfosys.Ds_brgyofficials,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.UpdateInsertedRows(datuinfosys.Ds_brgyofficials,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.UpdateDeletedRows(datuinfosys.Ds_brgyofficials,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.UpdateAll(datuinfosys.Ds_brgyofficials)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgyofficialsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositions">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositions.Table2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositions.Table2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositions.Table2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositionsTableAdapters.Table2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.UpdateUpdatedRows(datuinfosys.Ds_brgypositions,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.UpdateInsertedRows(datuinfosys.Ds_brgypositions,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.UpdateDeletedRows(datuinfosys.Ds_brgypositions,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.UpdateAll(datuinfosys.Ds_brgypositions)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:datuinfosys.Ds_brgypositionsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidents">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidents.RESIDENTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidents.RESIDENTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidents.RESIDENTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidentsTableAdapters.RESIDENTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.UpdateUpdatedRows(datuinfosys.ds_brgyresidents,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.UpdateInsertedRows(datuinfosys.ds_brgyresidents,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.UpdateDeletedRows(datuinfosys.ds_brgyresidents,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.UpdateAll(datuinfosys.ds_brgyresidents)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:datuinfosys.ds_brgyresidentsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSet.USERSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSet.USERSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSet.USERSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSetTableAdapters.USERSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(datuinfosys.usersdatudbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(datuinfosys.usersdatudbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(datuinfosys.usersdatudbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.UpdateAll(datuinfosys.usersdatudbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:datuinfosys.usersdatudbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
