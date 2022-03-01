@@ -15,11 +15,11 @@ Datu Barangay Information System is a flexible barangay system written in Visual
 
 1. Install the file by clicking setup.exe.
 
-![](https://imgur.com/CCSZEBK)
+![](https://imgur.com/CCSZEBK.png)
 
 1. When installation is complete, open Datu Barangay Information System from your desktop.
 
-![](https://imgur.com/6B22ZqA)
+![](https://imgur.com/6B22ZqA.png)
 
 1. When opened, you&#39;ll be redirected to the login page of Datu. The default username of the software is &quot;admin&quot; and the password is &quot;12345&quot;. This is done to new account for the system.
 
